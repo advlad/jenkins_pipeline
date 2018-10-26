@@ -1,6 +1,6 @@
 node {
-  echo "Starting build 1"
+  echo "Starting build 2"
   disableConcurrentBuilds()
   sleep 180
-  echo "Ending build 1"
+  echo "Ending build 2"
 }
